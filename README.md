@@ -6,3 +6,5 @@
 
 3) Our aim in this project is to predict the 4 co-ordinates and plot then on an image.
 
+4) You can download teh dataset from https://www.kaggle.com/chinki86/facial-key
+
