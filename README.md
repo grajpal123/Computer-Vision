@@ -5,3 +5,6 @@
 3) Our aim in this project is to predict the 4 co-ordinates and plot then on an image.
 4) You can download teh dataset from https://www.kaggle.com/chinki86/facial-key
 
+# Project 2: Blood Cell Detection 
+
+1) In this project we are detecting the WBC in the blood cell images.
